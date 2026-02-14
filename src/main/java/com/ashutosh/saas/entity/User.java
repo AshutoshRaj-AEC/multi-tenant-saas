@@ -1,3 +1,5 @@
+package com.ashutosh.saas.entity;
+
 import jakarta.persistence.*;
 
 @Entity
